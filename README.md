@@ -1,1 +1,2 @@
+** master
 git operation test
